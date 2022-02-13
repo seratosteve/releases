@@ -1,0 +1,7 @@
+LISA 256 - Afghan Girl is a 1984 photographic
+portrait of Sharbat Gula (born 20 March 1972)
+taken by photojournalist Steve McCurry. This
+extreme closeup of her right eye is converted
+to the C64 palette and then compressed using
+delta pseudo-huffman unary encoding to a mean
+of 1.65 bits per pixel. SYS 4321 to execute.

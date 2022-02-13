@@ -1,0 +1,9 @@
+MAZE 255 - A joystick-driven maze exploration
+game that is both tricky and addictive. Fully
+immersive graphics and sound effects keep you
+on your toes as you explore the corridors. 
+Forget about memorising the layout, advanced
+algorithms generate a brand new maze every
+time you play. Can you complete the labyrinth
+before your 166 seconds are up? Plug your joy
+stick into port 2 and SYS 4096 to find out!
